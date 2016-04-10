@@ -2,12 +2,13 @@ name: Jon Williams
 favicon: null
 layout_spectrum: 0.5780561
 typography_spectrum: 0.1200102
+title: Jon Williams
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-76209570-1
   facebook: null
   twitter: null
 opengraph:
