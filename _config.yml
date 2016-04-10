@@ -1,7 +1,7 @@
 name: Jon Williams
 favicon: null
-layout_spectrum: 0.5780561
-typography_spectrum: 0.1200102
+layout_spectrum: 0.76495
+typography_spectrum: 0.89458
 title: Jon Williams
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.2948325
-  lightness: 0.4988143
-  saturation: 0.273916
-  rhythmicContrast: 0.7641557
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
