@@ -1,14 +1,28 @@
+name: Jon Williams
+favicon: null
 layout_spectrum: 0.5780561
 typography_spectrum: 0.1200102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.273916
-  lightness: 0.4988143
-  brandStrength: 0.2948325
-  rhythmicContrast: 0.7641557
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-name: Jon Williams
+  brandStrength: 0.2948325
+  lightness: 0.4988143
+  saturation: 0.273916
+  rhythmicContrast: 0.7641557
+purpose: []
